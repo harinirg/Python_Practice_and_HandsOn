@@ -1,0 +1,5 @@
+b=input("enter name: ")
+a=input("enter age: ")
+print(b)
+print(a)
+print(type(a))

@@ -1,0 +1,8 @@
+x=(1==True)
+y=(1==False)
+a=(True+5)
+b=(False+10)
+print(x)
+print(y)
+print(a)
+print(b)

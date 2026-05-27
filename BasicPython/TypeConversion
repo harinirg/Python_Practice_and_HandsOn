@@ -1,0 +1,8 @@
+a=10
+b=20
+sum=a+b
+print(sum)
+print(type(sum))
+f=float(a+b)
+print(f)
+print(type(f))

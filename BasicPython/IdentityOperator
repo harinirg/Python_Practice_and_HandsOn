@@ -1,0 +1,7 @@
+num=5
+print(type(num) is str)
+print(type(num) is int)
+num1=num
+print(id(num))
+print(id(num1))
+print(num1 is not num)
