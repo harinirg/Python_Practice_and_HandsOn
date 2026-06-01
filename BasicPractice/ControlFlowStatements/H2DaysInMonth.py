@@ -1,6 +1,5 @@
 month = int(input("Enter month : "))
 year = int(input("Enter Year : "))
-
 is_leap = False
 if year % 4 == 0:
     if year % 100 == 0:
@@ -8,7 +7,6 @@ if year % 4 == 0:
             is_leap = True
     else:
         is_leap = True
-
 if month == 1:
     print("January", year, "has 31 days")
 elif month == 2:
